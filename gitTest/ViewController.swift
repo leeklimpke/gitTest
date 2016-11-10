@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         print("First addition")
+        print("OH yes im on my branch now")
     }
 
     override func didReceiveMemoryWarning() {
